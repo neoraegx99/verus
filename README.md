@@ -1,4 +1,4 @@
-#Script on termux
+#Script on termuxt
 pkg install wget -y && wget https://raw.githubusercontent.com/neoraegx99/verus/main/verus.sh && bash verus.sh
 
 #Script on ubuntu
